@@ -53,14 +53,14 @@ phishing-awareness-training/
 
 ## Testing checklist
 
-- [ ] Open `index.html` in a desktop browser.
-- [ ] Check the navigation links.
-- [ ] Read each phishing type and warning sign.
-- [ ] Review both fictional email scenarios.
-- [ ] Complete all ten quiz questions.
-- [ ] Confirm the score and retake button work.
-- [ ] Open the website on a mobile-sized screen and check the menu.
-- [ ] Check the browser console for errors.
+-  Open `index.html` in a desktop browser.
+-  Check the navigation links.
+-  Read each phishing type and warning sign.
+-  Review both fictional email scenarios.
+-  Complete all ten quiz questions.
+-  Confirm the score and retake button work.
+-  Open the website on a mobile-sized screen and check the menu.
+-  Check the browser console for errors.
 
 ## Security and privacy notes
 
@@ -81,9 +81,8 @@ Capture screenshots of:
 
 ## Project details to personalize before submission
 
-- Intern name: `[Your Name]`
-- Internship organization: `[Company Name]`
-- Internship role/team: `[Role or Team]`
-- Submission date: `[Date]`
+- Intern name: JAKKU SIDDHARTHA
+- Internship organization: CODEALPHA
+- Internship role/team: API PENTESTING
+- Submission date: 
 
-Replace these placeholders in `REPORT.md` before submitting.
