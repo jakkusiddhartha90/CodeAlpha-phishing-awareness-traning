@@ -79,7 +79,7 @@ Capture screenshots of:
 4. Social engineering and safety recommendations
 5. Quiz question and final score
 
-## Project details to personalize before submission
+## Project details 
 
 - Intern name: JAKKU SIDDHARTHA
 - Internship organization: CODEALPHA
