@@ -3,9 +3,9 @@
 ## Task 2: Phishing Awareness Training
 
 **Project:** PhishGuard — Phishing Awareness Training  
-**Intern:** [Your Name]  
-**Organization:** [Company Name]  
-**Department/Team:** [Role or Team]  
+**Intern:** JAKKU SIDDHARTHA
+**Organization:** CODEALPHA
+**Department/Team:** API PENTESTING
 **Submission date:** [Date]
 
 ## 1. Objective
