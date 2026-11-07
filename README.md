@@ -84,5 +84,5 @@ Capture screenshots of:
 - Intern name: JAKKU SIDDHARTHA
 - Internship organization: CODEALPHA
 - Internship role/team: API PENTESTING
-- Submission date: 03/NOVEMBER/2026
+- Submission date: 08/NOVEMBER/2026
 
