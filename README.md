@@ -1,6 +1,6 @@
 # PhishGuard — Phishing Awareness Training
 
-**Cybersecurity Internship Project | Task 2: Phishing Awareness Training**
+**Cybersecurity Internship Project | Task 1: Phishing Awareness Training**
 
 PhishGuard is a responsive, browser-based awareness training module that teaches users how to recognize phishing, understand social engineering, follow safer practices, and test their knowledge.
 
