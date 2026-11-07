@@ -6,7 +6,7 @@
 **Intern:** JAKKU SIDDHARTHA
 **Organization:** CODEALPHA
 **Department/Team:** API PENTESTING
-**Submission date:** [Date]
+**Submission date:** 30/NOVEMBER/2026
 
 ## 1. Objective
 
@@ -63,4 +63,4 @@ PhishGuard provides a practical learning resource for improving phishing awarene
 
 ## 8. Evidence
 
-Attach screenshots of the completed website and quiz here, or include them in a folder named `screenshots/` in the repository.
+Attachd screenshots of the completed website and quiz here, or include them in a folder named `screenshots/` in the repository.
