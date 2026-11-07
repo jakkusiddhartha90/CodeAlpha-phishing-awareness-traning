@@ -46,12 +46,12 @@ Record the actual results after testing:
 
 | Test | Expected result | Actual result |
 |---|---|---|
-| Website opens in browser | Main training page loads | [Pass/Fail] |
-| Navigation | Links move to correct sections | [Pass/Fail] |
-| Mobile layout | Content adapts to small screens | [Pass/Fail] |
-| Quiz answer selection | Feedback appears and correct answer is shown | [Pass/Fail] |
-| Quiz scoring | Final score is calculated out of 10 | [Pass/Fail] |
-| Retake quiz | Quiz restarts at question 1 with score reset | [Pass/Fail] |
+| Website opens in browser | Main training page loads | PASS – Main training page loaded. |
+| Navigation | Links move to correct sections |PASS – All five navigation links worked correctly.  |
+| Mobile layout | Content adapts to small screens | PASS – Layout adapted properly to mobile screens. |
+| Quiz answer selection | Feedback appears and correct answer is shown | PASS – Both answer types displayed feedback correctly. |
+| Quiz scoring | Final score is calculated out of 10 | PASS – Final score displayed as 8/10.|
+| Retake quiz | Quiz restarts at question 1 with score reset | PASS – Retake quiz worked successfully |
 
 ## 6. Safety and privacy
 
